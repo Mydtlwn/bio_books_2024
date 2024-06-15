@@ -1,0 +1,9 @@
+
+
+
+#180
+
+
+  Nanopore adapter sequence: CAGCACCTT
+
+The WuHan reference sequence: CAGCAAGTT
