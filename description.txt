@@ -7,3 +7,20 @@
   Nanopore adapter sequence: CAGCACCTT
 
 The WuHan reference sequence: CAGCAAGTT
+
+
+We discovered a sequencing processing error that gave rise to what appeared to be a mutation at position 943 (24389 A>C and 24390 C>G) in Spike that was evident in sequences from Belgium (Fig. S7). We contacted the group in Belgium, the source of the data, who were already aware of the issue, concurred with our interpretation, and they had been in touch with GISAID with a request to remove the problematic sequences. The error was not found among more recent sequences from Belgium (Fig. S6).
+
+
+
+Fragmented matching (> 20 nt gap in match to reference)
+
+Gaps at 5’ or 3’ end (> 3 nt)
+
+High numbers of mismatched nucleotides (> 20), ‘N’ or other ambiguous IUPAC codes.
+
+Regions with concentrated ambiguity (calls: >10 in any 50 nt window)
+
+When we embarked on our SARS-CoV-2 analysis pipeline, our motivation was to identify mutations that might be of potential concern in the SARS-CoV-2 Spike protein as an early warning system for consideration as vaccine studies progress; we did not anticipate such dramatic results so early in the pandemic. In a setting of very low genetic diversity, traditional means of identification of positive selection have limited statistical power, but the incredibly rich GISAID data set provides an opportunity to look more deeply into the evolutionary relationships among the SARS-CoV-2 sequences in the context of time and geography. This approach revealed that viruses bearing the mutation Spike D614G are replacing the original Wuhan form of the virus rapidly and repeatedly across the globe (Fig. 2-3). We do not know what is driving this selective sweep, nor for that matter if it is indeed due the modified Spike and not one of the other two accompanying mutations that share the GISAID “G-clade” haplotype. The Spike D614G change, however, is consistent with several hypotheses regarding a fitness advantage that can be explored experimentally. D614 is embedded in an immunodominant antibody epitope, recognized by antibodies isolated from recovered individuals who were infected with the original SARS-CoV; this epitope is also targeted by vaccination in primate models (Wang et al., 2016). Thus, this mutation might be conferring resistance to protective D614-directed antibody responses in infected people, making them more susceptible to reinfection with the newer G614 form of the virus. Alternatively, the advantage might be related to the fact that D614 is embedded in an immunodominant ADE epitope of SARS-CoV (Wang et al., 2016), and perhaps the G614 form can facilitate ADE. Finally, the D614G mutation is predicted to destabilize inter-protomer S1-S2 subunit interactions in the trimer, and this may have direct consequences for the infectivity of the virus (Fig. 4). Increased infectivity would be consistent with rapid spread, and also the association of higher viral load with G614 that we observed in the clinical data from Sheffield, England (Fig. 5).
+
+
