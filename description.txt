@@ -34,3 +34,18 @@ This cluster is rich in Serine residues that have a high propensity to form hydr
 (Of note, we had originally identified the S943P as a mutation of interest because it had met our threshold critia, and it was also located in the fusion core, but a closer examination of this mutation revealed that it was the result of a sequencing processing error (Freeman et al., 2020) (see Fig. S8, and methods for details).)
 
 
+
+Sites A831V and D839Y/N/E
+A831V and D839 are both being maintained at ~0.4% in the global sample through April. A831V is found only in Iceland and is in a single lineage that is stable in frequency over time (Fig. S6), whereas D839 has been sampled in many countries in Europe. Both mutations occur in the region of fusion peptide, although neither position is structurally resolved in the cryo-EM reconstruction; site A831 is part of the canonical fusion peptide. 
+
+
+
+
+
+
+
+
+
+
+
+
