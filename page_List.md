@@ -89,13 +89,13 @@ P75:https://www.biorxiv.org/search/Covid-19%20numresults%3A10%20sort%3Apublicati
 P76:https://www.biorxiv.org/search/Covid-19%20numresults%3A10%20sort%3Apublication-date%20direction%3Aascending?page=75
 
 
-2020_06
+2020_06:
 
 
+P77:https://www.biorxiv.org/search/Covid-19%20numresults%3A10%20sort%3Apublication-date%20direction%3Aascending?page=76
 
 
-
-
+P78:https://www.biorxiv.org/search/Covid-19%20numresults%3A10%20sort%3Apublication-date%20direction%3Aascending?page=77
 
 
 
