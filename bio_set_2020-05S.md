@@ -217,5 +217,64 @@ http://www.charmm-gui.org/docs/archive/covid19
 
 
 
+267、：
+https://www.biorxiv.org/content/10.1101/2020.05.21.109546v1.full
+
+
+https://www.fda.gov/media/137029/download
+
+
+https://www.fda.gov/media/136625/download
+
+
+https://www.fda.gov/media/137541/download
+
+
+https://www.utmb.edu/wrceva
+
+
+
+268、：
+
+https://www.biorxiv.org/content/10.1101/2020.05.22.111005v1.full
+
+
+269、：
+
+
+https://www.biorxiv.org/content/10.1101/2020.05.21.109835v2.full
+
+
+
+http://www.pymol.org/
+
+
+https://bigd.big.ac.cn/ncov
+
+
+https://www.r-project.org/
+
+
+
+https://github.com/KropskiLab
+
+
+
+
+270、：
+
+
+https://www.biorxiv.org/content/10.1101/2020.05.21.109322v1.full
+
+
+https://github.com/Worobeylab/SC2_outbreak
+
+
+https://www.biorxiv.org/content/10.1101/2020.05.24.111823v1.full
+
+
+https://www.biorxiv.org/content/10.1101/2020.05.24.113175v1.full
+
+
 
 
