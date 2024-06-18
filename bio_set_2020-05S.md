@@ -146,6 +146,75 @@ https://www.biorxiv.org/content/10.1101/2020.05.18.102087v1.full
 
 
 
+259、：
+
+https://www.biorxiv.org/content/10.1101/2020.05.19.104042v1.full
+
+
+http://cov-glue.cvr.gla.ac.uk/#/replacement
+
+https://github.com/noamaus/incubation-model
+
+
+
+260、：
+
+https://www.biorxiv.org/content/10.1101/2020.05.20.106351v1.full
+
+
+261、：
+https://www.biorxiv.org/content/10.1101/2020.05.20.106575v1.full
+
+
+
+262、：
+https://www.biorxiv.org/content/10.1101/2020.05.20.104885v1.full
+
+
+
+https://github.com/sanger-pathogens/snp-sites
+
+
+http://www.htslib.org/download/
+
+
+https://doc-openbio.readthedocs.io/projects/annovar/en/latest/articles/VCF/
+
+
+263、：
+https://www.biorxiv.org/content/10.1101/2020.05.20.103549v1.full
+
+
+
+http://broadinstitute.github.io/picard
+
+
+https://github.com/alimanfoo/pysamstats
+
+
+
+264、：
+https://www.biorxiv.org/content/10.1101/2020.05.03.074567v2.full
+
+
+http://genoma.ma/covid-19/
+
+
+
+http://snpeff.sourceforge.net/SnpEff_manual.html
+
+
+265、：
+https://www.biorxiv.org/content/10.1101/2020.05.21.109272v1.full
+
+
+266、：
+https://www.biorxiv.org/content/10.1101/2020.05.20.103325v2.full
+
+
+http://www.charmm-gui.org/docs/archive/covid19
+
+
 
 
 
